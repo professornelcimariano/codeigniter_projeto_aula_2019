@@ -1,0 +1,11 @@
+/* BKG */ 
+.bkg-one {background-color: #3c8dbc;}
+.bkg-one-dark {background-color: #367fa9;}
+.bkg-two { background-color: #222d32;}
+
+.btn-primary {background-color: #3c8dbc; border-color: #367fa9;}
+.btn-primary:hover {background-color: #367fa9; border-color: #367fa9;}
+
+hr {margin-top: 0 !important; margin-bottom: 0 !important;}
+
+main { float: right; width: 80%; padding: 10px !important;}
